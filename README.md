@@ -1,2 +1,3 @@
 # FlashChat
-A simple Chat Application.
+A simple Android Chat Application.
+
